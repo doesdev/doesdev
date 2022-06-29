@@ -1,6 +1,6 @@
 ## Hey, I'm Andrew
-### I love music, code, and trying to find the right balance between pragmatism and creativity.
+### I love music and code. As a developer, I seek to balance simplicity and practicality with creativity.
 
-I am also the second best rapper in the world according to [this](https://www.hackreactor.com/blog/the-ultimate-songs-about-coding-playlist). Okay, well, maybe that's not quite what that says. I'll keep pretending it does though.
+One time I made [JS source into a rap](https://www.youtube.com/watch?v=f5dx4DgxslQ) (or vice versa). Even made it onto [this prestigious list](https://www.hackreactor.com/blog/the-ultimate-songs-about-coding-playlist). It's not much but it's honest work.
 
 Mostly I exist here because the community is so generous with their creations. I hope that some things I create and share can help others the way other creators have helped me.
