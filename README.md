@@ -1,9 +1,9 @@
 # Hey, I'm Andrew
 
-## Senior software engineer focused on backend systems, APIs, and cloud infrastructure
-Depth in JavaScript, PostgreSQL, and AWS, with experience building security-sensitive healthcare platforms.
+## Software engineer and technical leader focused on systems, architecture, and building durable platforms
+I design and build backend and full-stack systems, APIs, and cloud infrastructure, with experience operating security-sensitive platforms in regulated domains.
 
-Adaptive polyglot: comfortable in Ruby, C#, Swift, and Go and excited to use the most fitting tool for the job, new or known.
+Adaptive polyglot: comfortable working across languages and frameworks, and excited to use the most fitting tool for the job, new or known, in service of clarity, performance, and longevity.
 
 ### I love music and code. As a developer, I seek to balance simplicity and practicality with creativity.
 
