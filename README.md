@@ -1,6 +1,6 @@
 # Hey, I'm Andrew
 
-## Software engineer and technical leader focused on systems, architecture, and building durable platforms
+## Engineer and technical leader focused on systems and architecture for production software at scale
 I design and build backend and full-stack systems, APIs, and cloud infrastructure, with experience operating security-sensitive platforms in regulated domains.
 
 Adaptive polyglot: comfortable working across languages and frameworks, and excited to use the most fitting tool for the job, new or known, in service of clarity, performance, and longevity.
